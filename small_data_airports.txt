@@ -1,0 +1,9 @@
+"AER","Sochi International Airport",43.449902,39.9566
+"ASF","Astrakhan Airport",46.28329849,48.00630188
+"CEK","Chelyabinsk Balandino Airport",55.305801,61.5033
+"DEC","Decatur Airport",39.83459854,-88.86569977
+"KZN","Kazan International Airport",55.60620117,49.27870178
+"LAX","Los Angeles International Airport",33.942501,-118.407997
+"MRV","Mineralnyye Vody Airport",44.22510147,43.08190155
+"ORD","Chicago O'Hare International Airport",41.9786,-87.9048
+"PGF","Perpignan-Rivesaltes (Llabanère) Airport",42.74039841,2.87067008

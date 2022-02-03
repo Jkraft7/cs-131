@@ -1,0 +1,7 @@
+"AER","KZN"
+"ASF","KZN"
+"ASF","MRV"
+"CEK","KZN"
+"LAX","ORD"
+"KZN","LAX"
+"DEC","ORD"
